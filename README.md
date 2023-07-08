@@ -1,1 +1,1 @@
-# RCCTNet-GAN   My paper will pubulic on TIP
+# FDAL-GAN   My paper will be pubulic on TIP
